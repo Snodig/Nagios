@@ -1,0 +1,81 @@
+Måloppnåelse oppdragsgiver
+
+Oppdragsgiver stilte ved prosjektets oppstart relativt løse krav til selve produktet.
+Dette stilte prosjektgruppen veldig fritt i utviklingsprosessen, men oppdragsgiver hadde noen krav eller ønsker til løsningen.
+Løsningens hovedformål var å øke effektiviteten rundt overvåkningen av deres interne systemer,
+samt fungere som et attraktivt ansikt utad for besøkende bedrifter eller kurstagende kunder i kontorlokalene.
+
+Det oppstod tidlig en enighet rundt hvorvidt produktet kunne ferdigstilles iløpet av utviklingsperioden,
+og det ble antatt at produktet, om ikke ferdig, skulle være så modulært og APIet så lett forståelig at 
+videreutvikling skulle være uproblematisk. 
+Dette ansees for å være oppnådd, selv om målsetningene for APIet ikke er hundre prosent fullendte.
+
+Oppdragsgiver krevde også, til det overnevnte formal, godt strukturert og spesifikt formatert dokumentasjon
+til bruk for videre utviklere, og dette målet er oppnådd.
+Dette er også en delmålsetning for å klargjøre produktet for open source-slipp etter prosjektets slutt.
+Produktet er derfor utformet etter en felles og bredt godtatt kodestandard.
+
+Måloppnåelse prosjektgruppen 
+
+Siden produktet målsetning var noe løst definert var det veldig fordelaktig at prosjektet
+skulle utvikles innenfor Scrum-rammeverket, da både produkteier og utviklingsgruppen ble stadig oppdatert
+angående sin respektive motparts meninger eller ønsker rundt løsningen.
+Dette ble veldig viktig for oppdragsgiveren langs hele prosjektet, da den hovedsaklige produkteieren ikke
+var direkte involvert i planeleggingen eller utformingen av prosjektet.
+Forslag til milepæler ble presentert fra gruppens side ved hvert møte med oppdragsgiver og disse
+ble veldig sjelden endret eller stilt spørsmål ved.
+
+Tilbakemeldingene fra produkteier og andre affilierte kilder har vært tilnærmet utelukkende positive.
+Responsen utviklingsgruppen mottok gikk mer på fokusen rundt hvorvidt produktet er lagt opp for
+å være brukbart til videreutvikling.
+
+Selv om det var godtatt fra oppdragsgiverens side, ser gruppen det som noe negativt at
+det manglet to egenskaper ved applikasjonen som var definert relativt tidlig.
+Disse ble etterhvert nedprioritert, da andre, mer pressende, features måtte ferdigstilles.
+Det ligger godt an for at etterfølgende utviklere kan utvikle disse egenskapene.
+
+Gruppen føler selv at kravene fra kunden er oppnådd og at produktet oppnår både våre og kundens egne
+standarder og kvalitetskriterier for et slikt utviklingsprosjekt.
+
+Vurdering av måloppnåelse for oppdragsgiver
+
+Kunden anser produktet for å være funksjonelt for deres formål som det er, selv om resultatet har et
+noe begrenset scope. Det menes med dette at kunden hadde forventet at det ferdige produktet kunne håndtere
+flere typer data enn det som står klart per idag.
+Da dette er sagt oppfyller produktet produkteiers hovedsaklig mål, spesifikt å kunne overvåke sitt
+interne system, Nagios, på en penere og mer iøynefallende måte. Utover dette anså oppdragsgiver alle
+andre ferdige bruksområder som en ekstra bonus om tiden strakk til.
+
+Hvorvidt produktet vil bli videreutviklet er, internt hos oppdragsgiver, avhengig av nødvendigheten, men
+også hvorvidt det er hensiktsmessig å bruke ressurser på produktet.
+Produktet vil som nevnt bli sluppet som åpen kildekode, og på denne delen er dessverre umulig å forutsi
+hvorvidt noen vil ta det innover seg å ta i bruk prosjektet som det er idag.
+
+Prosjektet har også fungert som en fin pekepinn for eventuell fremtidig bruk av lignende studentgrupper
+til denne typen arbeid. Det har blitt nevnt at kunden er meget godt fornøyd med resultatet med tanke
+på hvor få ressurser internt gruppen hadde tilgang til, da bedriften selv mangler kompetanse rundt
+mye av teknologien som er tatt i bruk.
+Dette kan derimot kanskje svekke produkteiers vurderingsevne rundt den tekniske løsningen.
+
+Vurdering av gruppens måloppnåelse
+
+Tekniske tester, iterative akseptansetester og undersøkelser blant sluttbrukerne av produktet
+peker mot at produktet har oppnådd den hensikt det ble utviklet mot.
+Det ble kastet mange idéer om nye retninger for videreutviklingen av produktet mot slutten
+av våre meningsmålinger, mange av dem gode, noen av dem litt mindre seriøse og noen som krever
+for mye arbeid til å være realistisk å implementere i den nåværende løsningen.
+
+Et av de største negativene gruppen selv vil trekke frem, som også ble påpekt av testgrupper,
+er mangel på tilbakemelding og til en viss grad håndtering, dersom noe skulle gå galt.
+Det er derimot et veldig godt grunnlag for å implementere en slik håndtering slik
+prosjektet er konstruert idag.
+
+I retrospekt er gruppens medlemmer rent stolte av måten utfordringer innenfor ny teknologi,
+og også framgangsmåten som kreves i et slikt utviklingsprosjekt kontra utviklingen av et
+rent underholdningsprodukt, som et spill.
+Gruppen har tilpasset seg nye teknologier veldig godt, selv da bedriften hadde begrensede
+muligheter for kurs eller støtte innenfor teknologiene som er tatt i bruk.
+
+Viktigst av alt føler gruppen de har oppfylt krav og forventninger fra oppdragsgiveren,
+og at produktet er teknisk og kvalitetsmessig tilfredsstillende.
+
